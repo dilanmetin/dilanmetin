@@ -1,4 +1,4 @@
-# Hi 🙋🏼‍♀️ I'm Electrical- electronics engineer. Also Jr. Web Developer
+# Hi 🙋🏼‍♀️ About Me:
 ⚡ I’m Electrical & Electronics Engineer<br>🌱 I’m currently learning C# <br>✔️ I'm learned HTML, CSS, Bootstrap, JS<br>📫 How to reach me: <a href="https://twitter.com/dilanmetinn">@dilanmetinn</a>  <br>🦺 Volunteer: Çorbada Tuzun Olsun Derneği 🥣
 
 
