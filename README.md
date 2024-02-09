@@ -1,5 +1,5 @@
 # Hi 🙋🏼‍♀️ About Me:
-⚡ I’m Electrical & Electronics Engineer<br>🌱 I’m currently learning C# <br>✔️ I'm learned HTML, CSS, Bootstrap, JS<br>📫 How to reach me: <a href="https://twitter.com/dilanmetinn">@dilanmetinn</a>  <br>🦺 Volunteer: Çorbada Tuzun Olsun Derneği 🥣
+⚡ I’m Electrical & Electronics Engineer<br>🌱 I’m currently learning C# <br>✔️ I'm learned HTML, CSS, Bootstrap, JS<br>📫 How to reach me: dilanmetin4@gmail.com  <br>🦺 Volunteer: Çorbada Tuzun Olsun Derneği 🥣
 
 
 ## 🌐 Socials:
